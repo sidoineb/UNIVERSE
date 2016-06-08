@@ -1,4 +1,7 @@
 #include <iostream>
+#include <cstdio>
+#include <cstdlib>
+#include "png.h"
 #include <png.h>
 
 typedef struct _PIXEL
